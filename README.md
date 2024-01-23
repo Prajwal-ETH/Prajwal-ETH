@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prajwal-ETH
 - 👀 I’m interested in Blockchain and Web 3.O
 - 🌱 I’m currently learning Blockchain Development
-- 💞️ I’m looking to collaborate on projects on blockchain and blockchain developers 
+- 💞️ I’m looking to collaborate on projects on blockchain and with blockchain developers 
 - 📫 How to reach me - mail at @prajwalghatole15@gmail.com
 
 <!---
